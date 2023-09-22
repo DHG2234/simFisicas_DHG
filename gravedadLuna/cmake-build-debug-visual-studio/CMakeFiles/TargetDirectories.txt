@@ -1,0 +1,3 @@
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/gravedadLuna/cmake-build-debug-visual-studio/CMakeFiles/gravedadLuna.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/gravedadLuna/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/gravedadLuna/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
