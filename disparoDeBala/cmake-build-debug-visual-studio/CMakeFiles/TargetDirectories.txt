@@ -1,0 +1,3 @@
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/disparoDeBala/cmake-build-debug-visual-studio/CMakeFiles/disparoDeBala.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/disparoDeBala/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/disparoDeBala/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
