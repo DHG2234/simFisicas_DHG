@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HolaJupiter",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HolaJupiter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HolaJupiter-Debug-0fb073e18e834c0ec903.json",
+					"name" : "HolaJupiter",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/HolaJupiter/cmake-build-debug-visual-studio",
+		"source" : "D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/HolaJupiter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
