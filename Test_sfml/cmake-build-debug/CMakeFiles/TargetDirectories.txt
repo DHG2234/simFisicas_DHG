@@ -1,0 +1,3 @@
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Test_sfml/cmake-build-debug/CMakeFiles/Test_sfml.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Test_sfml/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Test_sfml/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Poligonos/cmake-build-debug-visual-studio/CMakeFiles/Poligonos.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Poligonos/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Poligonos/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

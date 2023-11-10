@@ -1,0 +1,10 @@
+C:\Users\asrat\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/asrat/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\escuela\SimuladoresDeFisicasEnTiempoReal\simFisicas_DHG\Test_sfml -B D:\escuela\SimuladoresDeFisicasEnTiempoReal\simFisicas_DHG\Test_sfml\cmake-build-debug
+CMake Error at CMakeLists.txt:7 (add_executable):
+  add_executable cannot create target "Test_sfml" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory
+  "D:/escuela/SimuladoresDeFisicasEnTiempoReal/simFisicas_DHG/Test_sfml".
+  See documentation for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!
